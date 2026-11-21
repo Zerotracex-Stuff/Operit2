@@ -232,3 +232,7 @@ apps/flutter/app/macos/Runner/Configs/Signing.local.xcconfig
 apps/flutter/app/web/fonts/
 tools/theme/preview/web/fonts/
 .playwright-mcp
+
+# Local CJK translation report/cache
+.cjk-report.json
+.cjk-cache.json
